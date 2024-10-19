@@ -1,0 +1,1 @@
+This repository contains custom Kubernetes end-to-end (E2E) tests using Sonobuoy, Ginkgo, and Gomega. The tests validate the behavior of specific Kubernetes resources such as Secrets, ConfigMaps, and Persistent Volume Claims (PVCs) in a Kubernetes cluster.
